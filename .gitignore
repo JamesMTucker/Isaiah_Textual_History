@@ -5,3 +5,5 @@ env
 *.jpg
 *.tif
 *.png
+*.jp2
+*.DS_Store
