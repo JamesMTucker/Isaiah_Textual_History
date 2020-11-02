@@ -1,2 +1,7 @@
 # Ignore the Virtual Env
 env
+
+# File types
+*.jpg
+*.tif
+*.png
